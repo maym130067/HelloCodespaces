@@ -15,3 +15,4 @@ This is just a test repository. Pay no mind and have a good day.
     git status                  || shows status (ex. modified/unmodified) of files in directory
     git add fileName            || stages file for push
     git commit -m "yourMessage" || commits all staged files and adds change message
+    git push                    || pushes changes to remote (account level) repository
