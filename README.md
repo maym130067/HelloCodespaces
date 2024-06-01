@@ -16,3 +16,6 @@ This is just a test repository. Pay no mind and have a good day.
     git add fileName            || stages file for push
     git commit -m "yourMessage" || commits all staged files and adds change message
     git push                    || pushes changes to remote (account level) repository
+5. Stop codespace when not working on it to conserve available minutes left
+    https://github.com/codespaces has your active codespaces listed and you can stop them from here
+    yourHoursAvailable / numberOfCoresOnCodespaceCPU = yourHoursLeft;
